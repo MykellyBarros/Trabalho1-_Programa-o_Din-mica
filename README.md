@@ -9,6 +9,9 @@ Este repositório contém a implementação do algoritmo para calcular a **Maior
 - Analisar a diferença entre a abordagem recursiva e a abordagem com programação dinâmica.
 - Contabilizar o número de iterações e o tempo de execução de cada abordagem.
 
+### Relatório do trabalho:
+[Relatório](https://docs.google.com/document/d/1oCGSp3HqV8tisPUQg3DIExm9MA1UKGghy8l3I5QUiLA/edit?usp=sharing)
+
 ## Estrutura do Trabalho
 
 ### **Parte 1: Estudo e Análise do Problema LCS (Maior Subsequência Comum)**
