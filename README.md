@@ -14,7 +14,7 @@ Este repositório contém a implementação do algoritmo para calcular a **Maior
 
 ## Estrutura do Trabalho
 
-### **Parte 1: Estudo e Análise do Problema LCS (Maior Subsequência Comum)**
+### **Parte 1: Estudo e Análise do Problema LCS (Maior Subsequência Comum)** (Mykelly)
 
 Esta parte envolve a pesquisa e descrição teórica do problema da Maior Subsequência Comum (LCS), incluindo:
 
