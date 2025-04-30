@@ -41,7 +41,7 @@ if (S1[i-1] == S2[j-1]) dp[i][j] = dp[i-1][j-1] + 1; else dp[i][j] = Math.max(dp
 ```
 ---
 
-### **Parte 2: Implementação do Algoritmo Recursivo (Força Bruta)**
+### **Parte 2: Implementação do Algoritmo Recursivo (Força Bruta)** (Samara)
 
 Esta parte foca na implementação da solução recursiva para o cálculo do LCS:
 
