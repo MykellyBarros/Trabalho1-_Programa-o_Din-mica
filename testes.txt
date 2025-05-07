@@ -1,0 +1,53 @@
+===PALAVRAS PEQUENAS===
+
+1. S1: ABCDGH
+   S2: AEDFHR
+   Resultado esperado: ADH (comprimento 3)
+
+2. S1: AGGTAB
+   S2: GXTXAYB
+   Resultado esperado: GTAB (comprimento 4)
+
+3. S1: HELLO
+   S2: WORLD
+   Resultado esperado: L OU O (comprimento 1)
+
+4. S1: ABC
+   S2: DEF
+   Resultado esperado: "" (comprimento 0)
+
+5. S1: ABC
+   S2: ABC
+   Resultado esperado: ABC (comprimento 3)
+
+===PALAVRAS MÉDIAS ===
+
+1. S1: PROGRAMACAO
+   S2: DINAMICA
+   Resultado esperado: AMCA (comprimento 4)
+
+2. S1: ALGORITMO
+   S2: LOGICA
+   Resultado esperado: LOI (comprimento 3)
+
+3. S1: A1B2C3D4E5
+   S2: 1A2B3C4D5E
+   LCS recursivo: 5 | subsequencia: ABCDE
+   LCS dinamico: 5 | subsequencia: 12345
+
+4. S1: ABCABCABC
+   S2: ABC
+   Resultado esperado: ABC (comprimento 3)
+
+===PALAVRAS GRANDES===
+
+
+2. S1: PROGRAMACAODINAMICA
+   S2: DINAMICAPROGRAMACAO
+   Resultado esperado: PROGRAMACAO (comprimento 11)
+
+3. S1: HELLOWORLDHELLOWORLD
+   S2: WORLDHELLOWORLDHELLO
+   Resultado esperado: WORLDHELLOWORLD (comprimento 15)
+
+
